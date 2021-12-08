@@ -1,2 +1,2 @@
-# personal-website
-This personal website acts as my CV
+# resume-website
+This website acts as my CV
